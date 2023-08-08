@@ -1,1 +1,6 @@
 This is Faith's text file.  Hopefully I can push this to the repo
+
+Update two: 
+I successfully pushed to the repo!
+
+( ノ ^o^)ノ
